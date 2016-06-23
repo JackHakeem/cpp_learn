@@ -1,0 +1,1 @@
+#include "GuestMediator.h"
